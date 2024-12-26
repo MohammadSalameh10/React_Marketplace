@@ -1,0 +1,7 @@
+.category{
+    width: calc((100% - 96px) / 3);
+    border: 1px solid #000;
+}
+a{
+    color: #000;
+}
